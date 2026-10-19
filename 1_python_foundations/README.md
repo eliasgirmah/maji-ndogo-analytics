@@ -52,4 +52,22 @@ The workflow illustrates how an analyst can move from raw tabular data to clear 
 
 ## Evidence
 
-Screenshot evidence will be added here after the images are uploaded to this repository.
+### 1. Dataset Overview
+
+The sample dataset contains eight records and five columns describing soil type, rainfall, temperature, and crop yield.
+
+![Agricultural dataset overview](01_dataset_overview.png)
+
+### 2. Crop Yield by Soil Type
+
+This chart compares average crop yield across the soil types represented in the illustrative sample dataset.
+
+![Average crop yield by soil type](02_crop_yield_by_soil.png)
+
+### 3. Rainfall and Crop Yield
+
+This scatter plot explores the relationship between rainfall and crop yield in the sample data.
+
+![Rainfall versus crop yield scatter plot](03_rainfall_yield_scatter.png)
+
+*All screenshots show illustrative practice data, not official Maji Ndogo findings.*
